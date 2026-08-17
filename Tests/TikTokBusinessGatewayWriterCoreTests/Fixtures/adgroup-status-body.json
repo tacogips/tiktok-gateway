@@ -1,0 +1,6 @@
+{
+  "advertiser_id": "123",
+  "adgroup_ids": ["456"],
+  "operation_status": "DISABLE",
+  "allow_partial_success": false
+}

@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "OK",
+  "request_id": "ad-1",
+  "data": {
+    "list": [
+      {"ad_id": "321", "adgroup_id": "654", "campaign_id": "987", "ad_name": "Manual ad", "operation_status": "ENABLE"}
+    ],
+    "page_info": {"page": 1, "page_size": 100, "total_number": 1, "total_page": 1}
+  }
+}

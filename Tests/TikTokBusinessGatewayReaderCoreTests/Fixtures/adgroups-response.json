@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "OK",
+  "request_id": "adgroup-1",
+  "data": {
+    "list": [
+      {"adgroup_id": "654", "campaign_id": "987", "adgroup_name": "Manual group", "operation_status": "DISABLE"}
+    ],
+    "page_info": {"page": 1, "page_size": 100, "total_number": 1, "total_page": 1}
+  }
+}

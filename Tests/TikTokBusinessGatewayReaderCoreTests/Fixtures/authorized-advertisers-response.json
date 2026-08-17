@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "OK",
+  "request_id": "authorized-1",
+  "data": {
+    "list": [
+      {"advertiser_id": "123", "advertiser_name": "Allowed"},
+      {"advertiser_id": "456", "advertiser_name": "Not allowlisted"}
+    ]
+  }
+}

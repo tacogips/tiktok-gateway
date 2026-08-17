@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "message": "OK",
+  "request_id": "report-1",
+  "data": {
+    "list": [
+      {
+        "dimensions": {"campaign_id": "987", "stat_time_day": "2026-08-15"},
+        "metrics": {"spend": "12.34", "impressions": "100"}
+      }
+    ],
+    "page_info": {"page": 1, "page_size": 100, "total_number": 1, "total_page": 1}
+  }
+}

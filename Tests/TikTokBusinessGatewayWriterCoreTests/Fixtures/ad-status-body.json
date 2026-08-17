@@ -1,0 +1,5 @@
+{
+  "advertiser_id": "123",
+  "ad_ids": ["456"],
+  "operation_status": "ENABLE"
+}

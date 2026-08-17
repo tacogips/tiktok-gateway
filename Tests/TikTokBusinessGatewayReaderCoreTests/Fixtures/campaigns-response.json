@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "OK",
+  "request_id": "campaign-1",
+  "data": {
+    "list": [
+      {"campaign_id": "987", "campaign_name": "Manual", "operation_status": "ENABLE"}
+    ],
+    "page_info": {"page": 1, "page_size": 100, "total_number": 1, "total_page": 1}
+  }
+}

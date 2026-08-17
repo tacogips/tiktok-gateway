@@ -1,0 +1,16 @@
+{
+  "code": 0,
+  "message": "OK",
+  "request_id": "advertiser-1",
+  "data": {
+    "list": [
+      {
+        "advertiser_id": "123",
+        "name": "Sandbox advertiser",
+        "status": "STATUS_ENABLE",
+        "timezone": "Asia/Tokyo",
+        "currency": "JPY"
+      }
+    ]
+  }
+}
